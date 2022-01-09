@@ -1,2 +1,2 @@
 # saper
-Fast maked Saper game 
+Fast created Saper game in C and based on sfml lib.
