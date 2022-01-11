@@ -1,2 +1,2 @@
 # saper
-Fast created Saper game in C and based on allegro lib.
+Saper stworzony w jeden wieczór. Pierwsza styczność z bibilioteką Allegro.
